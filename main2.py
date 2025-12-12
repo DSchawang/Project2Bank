@@ -1,7 +1,7 @@
 from PyQt6.QtWidgets import QApplication
 import sys
 
-from Project2Bank.guilogic import BankGUI
+from guilogic import BankGUI
 
 
 def main():
